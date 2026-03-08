@@ -1,4 +1,8 @@
 # SAR Guardian – SAR Narrative Generator with Audit Trail
+[![Live App](https://img.shields.io/badge/Live%20Demo-Streamlit-green)](https://sar-narrative-generator-with-audit-trail.streamlit.app/)
+
+🔗 **Live Application:**  
+https://sar-narrative-generator-with-audit-trail.streamlit.app/
 
 SAR Guardian is an AI-assisted compliance platform that helps generate Suspicious Activity Report (SAR) narratives with full evidence traceability and a tamper-evident audit trail.
 
